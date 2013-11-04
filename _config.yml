@@ -1,15 +1,16 @@
-title:            Aft
+title:            Vetka
 description:      Summary. 
 disqus_shortname: 
 #Comment out url when working locally to resolve base urls correctly
-url:              http://localhost:4000
+# url:              http://localhost:4000
+url:              http://uvlek.github.io/vetka
 
 # Owner/author information
 owner:
-  name:           Aleksey Gororhov
+  name:           Tatiana Gorohova
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            "Photo designer."
+  email:          tanvetka@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
@@ -68,3 +69,7 @@ kramdown:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+
+
+portpofio:
+  retouch: ["angely.jpg", "blaon.jpg", "dressed_in.jpg", "girl.jpg", "in_cap.jpg", "in_cloak.jpg", "in_glass.jpg", "in_templ.jpg", "ira.jpg", "near_sea.jpg", "noname.jpg", "noname2.jpg", "noname3.jpg", "noname4.jpg", "noname5.jpg", "noname6.jpg", "noname7.jpg", "noname8.jpg", "noname9.jpg", "noname10.jpg", "noname11.jpg", "noname12.jpg", "oto.jpg", "wet.jpg", "redhead.jpg", "with_glass.jpg"]

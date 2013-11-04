@@ -1,0 +1,8 @@
+.mosaic .image {
+	width: 320px;
+	padding: 5px;
+}
+
+.lb-image{
+	max-width: inherit;
+}
