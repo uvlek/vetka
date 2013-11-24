@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vetka portfolio
-description: "Describe this nonsense."
+description: "2."
 tags: [portfolio]
 image:
   feature: abstract-1.jpg
@@ -9,10 +9,10 @@ image:
 ---
 
 <div class="mosaic">
-  {% for portfolio in site.portfolio %}
+  {% for retouch in site.portpofio.retouch %}
   <div class="image item">
-    <a href="{{ site.url }}/{{ portfolio }}" rel="lightbox[portfolio]">
-      <img src="{{ site.url }}/{{ portfolio }}" alt="">
+    <a href="{{ site.url }}/images/portfolio/retouch/{{ retouch }}" rel="lightbox[retouch]">
+      <img src="{{ site.url }}/images/portfolio/retouch/{{ retouch }}" alt="">
     </a>
   </div>
   {% endfor %}
