@@ -5,7 +5,8 @@ disqus_shortname:
 # url:              http://localhost:4000
 url:              http://uvlek.github.io/vetka
 
-# Owner/author information
+# Owner/author informations
+# /home/uvlek/jekyll/vetka/_config.yml
 owner:
   name:           Tatiana Gorohova
   avatar:         avatar.jpg
